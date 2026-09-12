@@ -1,0 +1,1 @@
+{"providerName":"CONFIGURE_ME","playersUrl":"https://YOUR_PROVIDER.example/api/players","apiKeyEnv":"CRICKET_DATA_API_KEY","method":"GET","headers":{"Authorization":"Bearer ${CRICKET_DATA_API_KEY}"},"responsePath":"players"}
